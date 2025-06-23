@@ -50,7 +50,7 @@ export function CategoryCards() {
             return (
               <Link key={category.name} href={category.href}>
                 <Card className="hover:shadow-lg transition-shadow cursor-pointer group">
-                  <CardContent className="p-6 text-center">
+                  <CardContent className="p-4 text-center">
                     <div className="flex items-center justify-center w-16 h-16 bg-gradient-to-br from-purple-100 to-blue-100 rounded-full mx-auto mb-4 group-hover:scale-110 transition-transform">
                       <IconComponent className="h-8 w-8 text-purple-600" />
                     </div>
