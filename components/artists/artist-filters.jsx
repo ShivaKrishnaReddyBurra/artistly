@@ -26,21 +26,18 @@ const priceRanges = [
 ];
 
 const locations = [
-  "Mumbai, Maharashtra",
-  "Delhi, Delhi",
-  "Bangalore, Karnataka",
-  "Chennai, Tamil Nadu",
-  "Kolkata, West Bengal",
-  "Hyderabad, Telangana",
-  "Pune, Maharashtra",
-  "Ahmedabad, Gujarat",
-  "Jaipur, Rajasthan",
-  "Surat, Gujarat",
-  "Kochi, Kerala",
-  "Gurgaon, Haryana",
-  "Noida, Uttar Pradesh",
-  "Vadodara, Gujarat",
-  "Chandigarh, Punjab"
+  "Maharashtra",
+  "Delhi",
+  "Karnataka",
+  "Tamil Nadu",
+  "West Bengal",
+  "Telangana",
+  "Gujarat",
+  "Rajasthan",
+  "Kerala",
+  "Haryana",
+  "Uttar Pradesh",
+  "Punjab"
 ];
 
 const languages = [
